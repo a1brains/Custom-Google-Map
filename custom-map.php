@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Custom Google Map
-Description: This plugin can add google map to your site
+Description: Simplest and Easiest way to display Google Maps in Website Pages & its Blog Posts in seconds.
 Author: Hidden Brains
 Author URI: http://hiddenbrains.com
 Version: 1.0
